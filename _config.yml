@@ -10,9 +10,9 @@ language: "en-uk"
 name: "Finding The Way Home"
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: "jekyller.github.io/jasper/"
-google_analytics: UA-69281367-1
-disqus: username
+short_url: "https://jeongjji.github.io"
+google_analytics:
+disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /blog/
 
