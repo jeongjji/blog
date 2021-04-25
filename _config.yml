@@ -8,7 +8,7 @@ language: "en-uk"
 
 # Website info
 name: "Jeonghun's Dev Blog"
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+description: "안녕하세요 17살 고등학생 김정훈입니다. 이 페이지는 저의 코딩 블로그이구요, 많은 관심부탁드립니당"
 
 short_url: "https://jeongjji.github.io"
 google_analytics:
